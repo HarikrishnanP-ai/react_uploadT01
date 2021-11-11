@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HarikrishnanP-ai/react_uploadT01/static/css/main.047e9845.chunk.css",
+    "main.js": "/HarikrishnanP-ai/react_uploadT01/static/js/main.9bbf1faa.chunk.js",
+    "main.js.map": "/HarikrishnanP-ai/react_uploadT01/static/js/main.9bbf1faa.chunk.js.map",
+    "runtime-main.js": "/HarikrishnanP-ai/react_uploadT01/static/js/runtime-main.85eecdf7.js",
+    "runtime-main.js.map": "/HarikrishnanP-ai/react_uploadT01/static/js/runtime-main.85eecdf7.js.map",
+    "static/js/2.b109babd.chunk.js": "/HarikrishnanP-ai/react_uploadT01/static/js/2.b109babd.chunk.js",
+    "static/js/2.b109babd.chunk.js.map": "/HarikrishnanP-ai/react_uploadT01/static/js/2.b109babd.chunk.js.map",
+    "static/js/3.ab30ff8f.chunk.js": "/HarikrishnanP-ai/react_uploadT01/static/js/3.ab30ff8f.chunk.js",
+    "static/js/3.ab30ff8f.chunk.js.map": "/HarikrishnanP-ai/react_uploadT01/static/js/3.ab30ff8f.chunk.js.map",
+    "index.html": "/HarikrishnanP-ai/react_uploadT01/index.html",
+    "static/css/main.047e9845.chunk.css.map": "/HarikrishnanP-ai/react_uploadT01/static/css/main.047e9845.chunk.css.map",
+    "static/js/2.b109babd.chunk.js.LICENSE.txt": "/HarikrishnanP-ai/react_uploadT01/static/js/2.b109babd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85eecdf7.js",
+    "static/js/2.b109babd.chunk.js",
+    "static/css/main.047e9845.chunk.css",
+    "static/js/main.9bbf1faa.chunk.js"
+  ]
+}
